@@ -1,2 +1,4 @@
 message: Hello from Config Server
 name: Praveen
+server:
+  port: 8081
